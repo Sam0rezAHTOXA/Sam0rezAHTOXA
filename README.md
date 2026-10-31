@@ -9,7 +9,7 @@
 <a href="https://t.me/AHTOXA_SamoreZ"><img src="https://img.shields.io/badge/Telegram-@AHTOXA__SamoreZ-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0e13" alt="Telegram"/></a>
 <a href="https://t.me/BunkerLan_bot"><img src="https://img.shields.io/badge/Бот-@BunkerLan__bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0e13" alt="Telegram-бот"/></a>
 <a href="https://vk.ru/vratarb150cm"><img src="https://img.shields.io/badge/VK-Антоха%20Позитивный-0077FF?style=for-the-badge&logo=vk&logoColor=white&labelColor=0b0e13" alt="VK"/></a>
-<a href="https://github.com/Sam0rezAHTOXA/BUNKER-releases/releases/tag/v1.1.2"><img src="https://img.shields.io/badge/Скачать-BUNKER.exe%20v1.1.2-FF6A00?style=for-the-badge&logo=counterstrike&logoColor=white&labelColor=0b0e13" alt="Скачать"/></a>
+<a href="https://github.com/Sam0rezAHTOXA/BUNKER-releases/releases/latest"><img src="https://img.shields.io/badge/Скачать-BUNKER.exe-FF6A00?style=for-the-badge&logo=counterstrike&logoColor=white&labelColor=0b0e13" alt="Скачать"/></a>
 
 </div>
 
@@ -27,7 +27,7 @@ role:      организатор LAN-турниров по Counter-Strike 2
 
 ## 💣 Главный проект
 
-<a href="https://github.com/Sam0rezAHTOXA/BUNKER-releases/releases/tag/v1.1.2">
+<a href="https://github.com/Sam0rezAHTOXA/BUNKER-releases/releases/latest">
   <img src="assets/bunker-card.svg" alt="BUNKER.exe — Windows-приложение для LAN-турниров CS2" width="100%"/>
 </a>
 
