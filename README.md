@@ -28,7 +28,7 @@ role:      организатор LAN-турниров по Counter-Strike 2
 ## 💣 Главный проект
 
 <a href="https://github.com/Sam0rezAHTOXA/BUNKER-releases/releases/tag/v1.1.2">
-  <img src="assets/bunker-card.svg" alt="BUNKER.exe — Windows-сборка для локальных турниров CS2" width="100%"/>
+  <img src="assets/bunker-card.svg" alt="BUNKER.exe — Windows-приложение для LAN-турниров CS2" width="100%"/>
 </a>
 
 
@@ -37,7 +37,7 @@ role:      организатор LAN-турниров по Counter-Strike 2
 <p>
   <img src="https://img.shields.io/badge/Counter--Strike%202-de9b35?style=flat-square&logo=counterstrike&logoColor=white" alt="CS2"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Web%20panel-1f2734?style=flat-square&logo=html5&logoColor=E34F26" alt="Web panel"/>
+  <img src="https://img.shields.io/badge/Desktop%20App-1f2734?style=flat-square&logo=windowsterminal&logoColor=FFB21E" alt="Desktop App"/>
   <a href="https://t.me/BunkerLan_bot"><img src="https://img.shields.io/badge/Telegram%20Bot-@BunkerLan__bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bot"/></a>
 </p>
 
@@ -58,7 +58,7 @@ BUNKER.exe собран на открытых проектах — спасиб�
   <img height="165" src="https://streak-stats.demolab.com?user=Sam0rezAHTOXA&hide_border=true&background=0b0e13&ring=ff6a00&fire=ffb21e&currStreakLabel=ffb21e&sideLabels=d7dde8&currStreakNum=ffffff&sideNums=ffffff&dates=8a94a6&stroke=2a3342&locale=ru" alt="GitHub streak"/>
 </div>
 
-## 🧪 Тестируешь сборку?
+## 🧪 Тестируешь BUNKER.exe?
 
 Если используешь BUNKER.exe на своём турнире — расскажи, как прошло 🙌
 Особенно полезны **точные шаги воспроизведения ошибок**.
