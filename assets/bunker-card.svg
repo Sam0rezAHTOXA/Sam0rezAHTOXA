@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="BUNKER.exe — Windows-сборка для локальных турниров CS2">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#11161f"/>
+      <stop offset="1" stop-color="#0b0e13"/>
+    </linearGradient>
+    <linearGradient id="acc2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffb21e"/>
+      <stop offset="1" stop-color="#ff6a00"/>
+    </linearGradient>
+    <clipPath id="f2"><rect width="1200" height="260" rx="14"/></clipPath>
+    <style>
+      .t { font-family: 'Segoe UI', 'Arial Black', Arial, Helvetica, sans-serif; }
+      .mono { font-family: Consolas, 'Courier New', monospace; }
+      .bar { animation: load 3.5s ease-in-out infinite alternate; transform-origin: left; }
+      @keyframes load { from { transform: scaleX(.55); } to { transform: scaleX(.92); } }
+      @media (prefers-reduced-motion: reduce) { .bar { animation: none; } }
+    </style>
+  </defs>
+  <g clip-path="url(#f2)">
+    <rect width="1200" height="260" fill="url(#bg2)"/>
+    <rect width="1200" height="4" fill="url(#acc2)"/>
+    <rect x="0.5" y="0.5" width="1199" height="259" rx="14" fill="none" stroke="#2a3342"/>
+
+    <text class="mono" x="44" y="50" font-size="14" fill="#ffb21e" letter-spacing="3">// ГЛАВНЫЙ ПРОЕКТ</text>
+    <text class="t" x="44" y="98" font-size="40" font-weight="900" fill="#ffffff">BUNKER<tspan fill="#ff6a00">.exe</tspan></text>
+    <text class="t" x="44" y="130" font-size="19" fill="#aab3c2">Windows-сборка для локальных турниров CS2</text>
+    <text class="mono" x="44" y="180" font-size="14" fill="#8a94a6">&gt; турнир без ручной возни с серверами<tspan fill="#ffb21e">_</tspan></text>
+
+    <!-- feature chips -->
+    <g class="t" font-size="16" font-weight="600" fill="#e6ebf2">
+      <g transform="translate(560 40)">
+        <rect width="290" height="44" rx="8" fill="#161d29" stroke="#2a3342"/>
+        <text x="18" y="28"><tspan fill="#ffb21e">◆</tspan>  2 матча из 1 приложения</text>
+      </g>
+      <g transform="translate(866 40)">
+        <rect width="290" height="44" rx="8" fill="#161d29" stroke="#2a3342"/>
+        <text x="18" y="28"><tspan fill="#ffb21e">◆</tspan>  Режимы 5×5 и 2×2</text>
+      </g>
+      <g transform="translate(560 98)">
+        <rect width="290" height="44" rx="8" fill="#161d29" stroke="#2a3342"/>
+        <text x="18" y="28"><tspan fill="#ffb21e">◆</tspan>  Локальная веб-панель</text>
+      </g>
+      <g transform="translate(866 98)">
+        <rect width="290" height="44" rx="8" fill="#161d29" stroke="#2a3342"/>
+        <text x="18" y="28"><tspan fill="#ffb21e">◆</tspan>  Бот в Telegram</text>
+      </g>
+      <g transform="translate(560 156)">
+        <rect width="596" height="44" rx="8" fill="#161d29" stroke="#2a3342"/>
+        <text x="18" y="28"><tspan fill="#ffb21e">◆</tspan>  Демки и статистика матчей</text>
+      </g>
+    </g>
+    <text class="mono" x="1156" y="236" font-size="12" fill="#5c6678" text-anchor="end">WINDOWS · CS2 · LAN</text>
+  </g>
+</svg>
