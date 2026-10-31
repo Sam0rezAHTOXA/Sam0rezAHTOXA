@@ -68,8 +68,8 @@ BUNKER.exe собран на открытых проектах — спасиб�
 |---|---|---|
 | [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) | [@roflmuffin](https://github.com/roflmuffin) | фреймворк для серверных плагинов CS2 на C# |
 | [MatchZy](https://github.com/shobhit-pathak/MatchZy) | [@shobhit-pathak](https://github.com/shobhit-pathak) | управление матчами, демки и статистика |
-| [WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints) | [@Nereziel](https://github.com/Nereziel) | скины оружия, ножи, перчатки, агенты, музыка MVP, значки |
-| [MenuManagerCS2](https://github.com/NickFox007/MenuManagerCS2) · [PlayerSettingsCS2](https://github.com/NickFox007/PlayerSettingsCS2) · [AnyBaseLibCS2](https://github.com/NickFox007/AnyBaseLibCS2) | [@NickFox007](https://github.com/NickFox007) | игровые меню и сохранение настроек игроков для WeaponPaints |
+| [WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints) | [@Nereziel](https://github.com/Nereziel) | скины оружия, ножи, перчатки, агенты, музыка MVP, значки — *ставится по переключателю «Скины»* |
+| [MenuManagerCS2](https://github.com/NickFox007/MenuManagerCS2) · [PlayerSettingsCS2](https://github.com/NickFox007/PlayerSettingsCS2) · [AnyBaseLibCS2](https://github.com/NickFox007/AnyBaseLibCS2) | [@NickFox007](https://github.com/NickFox007) | меню и настройки игроков для WeaponPaints — *ставятся вместе со «Скинами»* |
 | [Metamod:Source](https://www.sourcemm.net/) | [AlliedModders](https://github.com/alliedmodders) | загрузчик плагинов, на котором работает CounterStrikeSharp |
 
 ## 📊 Активность
