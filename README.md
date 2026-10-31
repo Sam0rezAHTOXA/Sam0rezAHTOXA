@@ -54,8 +54,7 @@ BUNKER.exe собран на открытых проектах — спасиб�
 ## 📊 Активность
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sam0rezAHTOXA&show_icons=true&hide_border=true&bg_color=0b0e13&title_color=ffb21e&icon_color=ff6a00&text_color=d7dde8&locale=ru&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Sam0rezAHTOXA&hide_border=true&background=0b0e13&ring=ff6a00&fire=ffb21e&currStreakLabel=ffb21e&sideLabels=d7dde8&currStreakNum=ffffff&sideNums=ffffff&dates=8a94a6&stroke=2a3342&locale=ru" alt="GitHub streak"/>
+  <img width="560" src="https://streak-stats.demolab.com?user=Sam0rezAHTOXA&hide_border=true&background=0b0e13&ring=ff6a00&fire=ffb21e&currStreakLabel=ffb21e&sideLabels=d7dde8&currStreakNum=ffffff&sideNums=ffffff&dates=8a94a6&stroke=2a3342&locale=ru" alt="GitHub streak"/>
 </div>
 
 ## 🧪 Тестируешь BUNKER.exe?
@@ -66,7 +65,7 @@ BUNKER.exe собран на открытых проектах — спасиб�
 
 <div align="center">
 <br/>
-<img src="https://komarev.com/ghpvc/?username=Sam0rezAHTOXA&color=ff6a00&style=flat-square&label=%D0%9F%D1%80%D0%BE%D1%81%D0%BC%D0%BE%D1%82%D1%80%D1%8B" alt="Просмотры профиля"/>
+<img src="https://komarev.com/ghpvc/?username=Sam0rezAHTOXA&color=ff6a00&style=for-the-badge&label=PROFILE+VIEWS" alt="Просмотры профиля"/>
 <br/>
 <sub>gl hf 🎮</sub>
 </div>
