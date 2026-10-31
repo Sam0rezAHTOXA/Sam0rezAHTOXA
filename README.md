@@ -35,19 +35,22 @@ role:      организатор LAN-турниров по Counter-Strike 2
 
 <div align="center">
   <img src="assets/screens/pult.jpg" alt="BUNKER.exe — пульт" width="100%"/>
-  <sub><b>Пульт</b> — выбор карты и режима 5×5 / 2×2, запуск сервера в один клик</sub>
+  <sub><b>Пульт</b> — счёт как на трансляции, раунды, киллфид, пауза и RCON</sub>
 </div>
 
 <br/>
 
 <table>
   <tr>
+    <td width="50%" align="center"><img src="assets/screens/tournament.jpg" alt="Турнир"/><br/><sub><b>Турнир</b> — сетка на выбывание или с нижней сеткой</sub></td>
     <td width="50%" align="center"><img src="assets/screens/series.jpg" alt="Серия — команды"/><br/><sub><b>Серия</b> — команды, BO1/BO3/BO5, вето</sub></td>
-    <td width="50%" align="center"><img src="assets/screens/maps.jpg" alt="Карты"/><br/><sub><b>Карты</b> — турнирный пул и Workshop</sub></td>
   </tr>
   <tr>
     <td width="50%" align="center"><img src="assets/screens/plugins.jpg" alt="Плагины"/><br/><sub><b>Плагины</b> — обновления, откаты, скины</sub></td>
     <td width="50%" align="center"><img src="assets/screens/settings.jpg" alt="Настройки"/><br/><sub><b>Настройки</b> — раунды, сторож, Telegram-бот</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="assets/screens/installer.jpg" alt="Установщик" width="70%"/><br/><sub><b>Установщик</b> — один файл, сервер и приложение ставятся сразу</sub></td>
   </tr>
 </table>
 
