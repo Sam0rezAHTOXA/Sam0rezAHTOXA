@@ -31,6 +31,25 @@ role:      организатор LAN-турниров по Counter-Strike 2
   <img src="assets/bunker-card.svg" alt="BUNKER.exe — Windows-приложение для LAN-турниров CS2" width="100%"/>
 </a>
 
+## 📸 Как выглядит
+
+<div align="center">
+  <img src="assets/screens/pult.jpg" alt="BUNKER.exe — пульт" width="100%"/>
+  <sub><b>Пульт</b> — выбор карты и режима 5×5 / 2×2, запуск сервера в один клик</sub>
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" align="center"><img src="assets/screens/series.jpg" alt="Серия — команды"/><br/><sub><b>Серия</b> — команды, BO1/BO3/BO5, вето</sub></td>
+    <td width="50%" align="center"><img src="assets/screens/maps.jpg" alt="Карты"/><br/><sub><b>Карты</b> — турнирный пул и Workshop</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><img src="assets/screens/plugins.jpg" alt="Плагины"/><br/><sub><b>Плагины</b> — обновления, откаты, скины</sub></td>
+    <td width="50%" align="center"><img src="assets/screens/settings.jpg" alt="Настройки"/><br/><sub><b>Настройки</b> — раунды, сторож, Telegram-бот</sub></td>
+  </tr>
+</table>
 
 ## 🛠️ Стек
 
@@ -49,6 +68,8 @@ BUNKER.exe собран на открытых проектах — спасиб�
 |---|---|---|
 | [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) | [@roflmuffin](https://github.com/roflmuffin) | фреймворк для серверных плагинов CS2 на C# |
 | [MatchZy](https://github.com/shobhit-pathak/MatchZy) | [@shobhit-pathak](https://github.com/shobhit-pathak) | управление матчами, демки и статистика |
+| [WeaponPaints](https://github.com/Nereziel/cs2-WeaponPaints) | [@Nereziel](https://github.com/Nereziel) | скины оружия, ножи, перчатки, агенты, музыка MVP, значки |
+| [MenuManagerCS2](https://github.com/NickFox007/MenuManagerCS2) · [PlayerSettingsCS2](https://github.com/NickFox007/PlayerSettingsCS2) · [AnyBaseLibCS2](https://github.com/NickFox007/AnyBaseLibCS2) | [@NickFox007](https://github.com/NickFox007) | игровые меню и сохранение настроек игроков для WeaponPaints |
 | [Metamod:Source](https://www.sourcemm.net/) | [AlliedModders](https://github.com/alliedmodders) | загрузчик плагинов, на котором работает CounterStrikeSharp |
 
 ## 📊 Активность
