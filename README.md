@@ -35,7 +35,7 @@ role:      организатор LAN-турниров по Counter-Strike 2
 
 <div align="center">
   <img src="assets/screens/pult.jpg" alt="BUNKER.exe — пульт" width="100%"/>
-  <sub><b>Пульт</b> — счёт как на трансляции, раунды, киллфид, пауза и RCON</sub>
+  <sub><b>Пульт</b> — счёт как на трансляции, игроки, хайлайты и эффекты, пауза и RCON</sub>
 </div>
 
 <br/>
