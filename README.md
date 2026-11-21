@@ -50,9 +50,7 @@ role:      организатор LAN-турниров по Counter-Strike 2
     <td width="50%" align="center"><img src="assets/screens/settings.jpg" alt="Настройки"/><br/><sub><b>Настройки</b> — раунды, сторож, Telegram-бот</sub></td>
   </tr>
   <tr>
-    <td width="50%" align="center"><img src="assets/screens/maps.jpg" alt="Карты"/><br/><sub><b>Карты</b> — турнирный пул и Workshop</sub></td>
-    <td width="50%" align="center"><img src="assets/screens/installer.jpg" alt="Установщик"/><br/><sub><b>Установщик</b> — один файл, сервер и приложение сразу</sub></td>
-  </tr>
+    
 </table>
 
 ## 🛠️ Стек
