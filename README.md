@@ -9,7 +9,7 @@
 <a href="https://t.me/AHTOXA_SamoreZ"><img src="https://img.shields.io/badge/Telegram-@AHTOXA__SamoreZ-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0e13" alt="Telegram"/></a>
 <a href="https://t.me/BunkerLan_bot"><img src="https://img.shields.io/badge/Бот-@BunkerLan__bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0b0e13" alt="Telegram-бот"/></a>
 <a href="https://vk.ru/vratarb150cm"><img src="https://img.shields.io/badge/VK-Антоха%20Позитивный-0077FF?style=for-the-badge&logo=vk&logoColor=white&labelColor=0b0e13" alt="VK"/></a>
-<a href="https://github.com/Sam0rezAHTOXA/BUNKER-releases/releases/latest"><img src="https://img.shields.io/badge/Скачать-BUNKER.exe-FF6A00?style=for-the-badge&logo=counterstrike&logoColor=white&labelColor=0b0e13" alt="Скачать"/></a>
+<a href="https://github.com/Sam0rezAHTOXA/BUNKER-releases/releases/latest"><img src="https://img.shields.io/badge/Скачать-NOVIX_2.0-FF6A00?style=for-the-badge&logo=counterstrike&logoColor=white&labelColor=0b0e13" alt="Скачать"/></a>
 
 </div>
 
@@ -21,20 +21,20 @@
 nick:      Антоха
 role:      организатор LAN-турниров по Counter-Strike 2
 делаю:     инструменты, чтобы провести матч без ручной возни с двумя серверами
-проект:    BUNKER.exe 💣
+проект:    NOVIX 2.0 🛰️
 бот:       @BunkerLan_bot 🤖
 ```
 
-## 💣 Главный проект
+## 🛰️ Главный проект
 
 <a href="https://github.com/Sam0rezAHTOXA/BUNKER-releases/releases/latest">
-  <img src="assets/bunker-card.svg" alt="BUNKER.exe — Windows-приложение для LAN-турниров CS2" width="100%"/>
+  <img src="assets/novix-card.svg" alt="NOVIX 2.0 — Windows-приложение для LAN-турниров CS2" width="100%"/>
 </a>
 
 ## 📸 Как выглядит
 
 <div align="center">
-  <img src="assets/screens/pult.jpg" alt="BUNKER.exe — пульт" width="100%"/>
+  <img src="assets/screens/pult.jpg" alt="NOVIX 2.0 — пульт" width="100%"/>
   <sub><b>Пульт</b> — карта и запуск в один клик, адрес для подключения, серия и турнир</sub>
 </div>
 
@@ -66,7 +66,7 @@ role:      организатор LAN-турниров по Counter-Strike 2
 
 ## 🙏 На чём работает
 
-BUNKER.exe собран на открытых проектах — спасибо их авторам:
+NOVIX 2.0 собран на открытых проектах — спасибо их авторам:
 
 | Инструмент | Автор | Что делает |
 |---|---|---|
@@ -82,9 +82,9 @@ BUNKER.exe собран на открытых проектах — спасиб�
   <img width="560" src="https://streak-stats.demolab.com?user=Sam0rezAHTOXA&hide_border=true&background=0b0e13&ring=ff6a00&fire=ffb21e&currStreakLabel=ffb21e&sideLabels=d7dde8&currStreakNum=ffffff&sideNums=ffffff&dates=8a94a6&stroke=2a3342&locale=ru" alt="GitHub streak"/>
 </div>
 
-## 🧪 Тестируешь BUNKER.exe?
+## 🧪 Тестируешь NOVIX?
 
-Если используешь BUNKER.exe на своём турнире — расскажи, как прошло 🙌
+Если используешь NOVIX на своём турнире — расскажи, как прошло 🙌
 Особенно полезны **точные шаги воспроизведения ошибок**.
 Пиши в [Telegram](https://t.me/AHTOXA_SamoreZ) или [VK](https://vk.ru/vratarb150cm). Бот для турниров — [@BunkerLan_bot](https://t.me/BunkerLan_bot).
 

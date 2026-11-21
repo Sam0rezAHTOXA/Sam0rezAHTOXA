@@ -82,7 +82,7 @@
       <text class="t" x="208" y="52" font-size="22" font-weight="900" fill="#ffffff" text-anchor="middle">11</text>
     </g>
     <g class="mono" font-size="13" fill="#8a94a6" transform="translate(560 200)">
-      <text x="0" y="0">&gt; bunker.exe <tspan fill="#ffb21e">--start</tspan></text>
+      <text x="0" y="0">&gt; novix 2.0 <tspan fill="#ffb21e">--start</tspan></text>
       <text x="0" y="22">&gt; match 1 · match 2 <tspan fill="#4cd964">● online</tspan></text>
       <text x="0" y="44">&gt; bomb planted <tspan fill="#ff3b30">● 7355608</tspan></text>
     </g>
